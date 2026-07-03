@@ -29,14 +29,18 @@ graph TD
     F --> I[Final Documentation]
     G --> I
     H --> I
-    I --> J[Internship Completion]
+    I --> J[Internship Completion],
+```
 
 📈 Technical Performance Analysis
 This data represents the approximate distribution of my effort and technical focus during the program.
+
+```mermaid
 pie title Internship Skill Distribution
     "Vulnerability Assessment (VAPT)" : 40
     "Incident Response & SOC" : 35
     "Secure App Development" : 25
+```
 
 🛠️ Technical Stack
 Security Testing: OWASP ZAP, Nmap, Wireshark.
